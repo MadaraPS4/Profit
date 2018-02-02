@@ -1,0 +1,15 @@
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\AppleProfit.csproj.GenerateResource.Cache
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
